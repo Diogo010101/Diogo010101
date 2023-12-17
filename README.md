@@ -4,6 +4,8 @@
 
 (❁´◡`❁) Sou apaixonado por tecnologia desde sempre, tentei me graduar em administração, mas percebi que não tinha nada haver comigo e por isso resolvi fazer ADS.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo010101&show_icons=true&theme=ambient_gradient)
+
 ### Minhas redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogoj-dev/)
@@ -56,4 +58,5 @@ Algumas das tecnologias que estou estudando no momento, além dessas, também pr
 # BORA CODAR!
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://spbancarios.com.br/sites/default/files/inline-images/monkey-computer.gif)
+
 
