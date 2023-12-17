@@ -2,7 +2,8 @@
 ## Desenvolvedor Front-end Web
 🎓Formado em Análise e Desenvolvimento de Sistemas pela [FIAP](https://www.fiap.com.br/) em 2023.
 
-(❁´◡`❁) Sou apaixonado por tecnologia desde sempre, tentei me graduar em administração, mas percebi que não tinha nada haver comigo e por isso resolvi fazer ADS.
+(❁´◡`❁) Sou apaixonado por tecnologia desde sempre, tentei me graduar em administração, mas percebi que não tinha nada a ver comigo e por isso resolvi fazer ADS.
+Gosto de tecnologia em geral, games, livros e estudar de tudo um pouco, não apenas programação, mas de tudo mesmo. Também gosto de desenhar e passar meu tempo livre com a minha família.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo010101&show_icons=true&theme=ambient_gradient)
 
@@ -38,7 +39,7 @@ Também utilizo o Eclipse e Android Studio.
 
 ## Estudando no momento
 
-Algumas das tecnologias que estou estudando no momento, além dessas, também pretendo aprender C#, pois tenho interece em programação voltada para jogos.
+Algumas das tecnologias que estou estudando no momento, além dessas, também pretendo aprender C#, pois tenho interesse em programação voltada para jogos.
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
@@ -58,5 +59,4 @@ Algumas das tecnologias que estou estudando no momento, além dessas, também pr
 # BORA CODAR!
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://spbancarios.com.br/sites/default/files/inline-images/monkey-computer.gif)
-
 
