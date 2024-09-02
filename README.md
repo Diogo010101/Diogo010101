@@ -7,6 +7,10 @@ Gosto de tecnologia em geral, games, livros e estudar de tudo um pouco, não ape
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo010101&show_icons=true&theme=ambient_gradient)
 
+## Repositórios em destaque
+
+[![Repo Card]([https://github-readme-stats.vercel.app/api/pin/?username=Diogo010101&repo=projeto_cafeteria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Diogo010101/projeto_cafeteria](https://github.com/Diogo010101/projetos_front-end))
+
 ### Minhas redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogoj-dev/)
@@ -46,15 +50,6 @@ Algumas das tecnologias que estou estudando no momento, além dessas, também pr
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-## Repositórios em destaque
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Diogo010101&repo=projeto_cafeteria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Diogo010101/projeto_cafeteria)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Diogo010101&repo=projeto_poke_wiki&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Diogo010101/projeto_poke_wiki)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Diogo010101&repo=slide_imagem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Diogo010101/slide_imagem)
-
 
 # BORA CODAR!
 
