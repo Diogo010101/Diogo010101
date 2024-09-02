@@ -9,7 +9,7 @@ Gosto de tecnologia em geral, games, livros e estudar de tudo um pouco, não ape
 
 ## Repositórios em destaque
 
-[![Repo Card]([https://github-readme-stats.vercel.app/api/pin/?username=Diogo010101&repo=projeto_cafeteria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Diogo010101/projeto_cafeteria](https://github.com/Diogo010101/projetos_front-end))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Diogo010101/projetos_front-end)
 
 ### Minhas redes:
 
