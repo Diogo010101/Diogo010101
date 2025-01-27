@@ -1,5 +1,5 @@
 # Diogo José da Silva
-## Desenvolvedor Front-end Web
+## Desenvolvedor Web e Analise de Dados
 🎓Formado em Análise e Desenvolvimento de Sistemas pela [FIAP](https://www.fiap.com.br/) em 2023.
 
 (❁´◡`❁) Sou apaixonado por tecnologia desde sempre, tentei me graduar em administração, mas percebi que não tinha nada a ver comigo e por isso resolvi fazer ADS.
