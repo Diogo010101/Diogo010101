@@ -18,13 +18,6 @@ Gosto de tecnologia em geral, games, livros e estudar de tudo um pouco, não ape
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Diogo010101&repo=projetos_back-end&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Diogo010101/projetos_back-end)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-
-
 ### Minhas redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogoj-dev/)
@@ -63,7 +56,6 @@ Algumas das tecnologias que estou estudando no momento, além dessas, também pr
 
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 # BORA CODAR!
 
